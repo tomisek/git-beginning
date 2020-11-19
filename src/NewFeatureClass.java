@@ -8,4 +8,7 @@ public void newMethod(){
         return fragment;
         }
         //More comments
+        public void WTF(){
+        //amazing
+        }
         }
