@@ -7,4 +7,5 @@ public void newMethod(){
         fragment.setArguments(args);
         return fragment;
         }
+        //More comments
         }
